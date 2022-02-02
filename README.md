@@ -9,8 +9,7 @@ This repo contains data loading, data preprocessing, EDA, statistical tests, fea
 * Performed exploratory data analysis and statistical tests to visualize and inspect trend, seasonality, and stationarity of observations.
 * Created machine learning models such as XGBoost, LSTM, and CNN.
 
-
-## Screenshots
+You can download the original dataset from [here](https://raw.githubusercontent.com/MoMkhani/ETH-USD-PriceForecasting/main/Data/Binance_ETHUSDT_1h.csv). The data is obtained from the "historical data" section of [cryptodatadownload.com](https://www.cryptodatadownload.com/data/apac/) which, provides crypto prices on different exchanges.
 
 ![LSTM](LSTM-ETH.png)
 ![Closing-ETH-price-in-2021](Closing-ETH-price-in-2021.png)
